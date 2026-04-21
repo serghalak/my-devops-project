@@ -1,2 +1,2 @@
 # my-devops-project
-Welcome to our new project.
+Welcome to our awesome project.
